@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "khlee"
+  name             : ""
   avatar           : "https://avatars.githubusercontent.com/u/35694083?s=120&v=4"
-  bio              : "I am an **amazing** person."
+  bio              : "Tip's and Tech for DevOps engineer.."
   location         : "Somewhere"
   email            :
   links:
