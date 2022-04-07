@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "khlazy.github.io/blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "khlazy"
 description              : "An amazing website."
 url                      : "https://khlazy.github.io"
 baseurl                  : "/blog"
