@@ -1,6 +1,11 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 .gist .gist-file {border: unset !important;}
 .gist .gist-meta {background-color: unset !important;}
 .gist-meta a:nth-child(1) {display: none !important;}
