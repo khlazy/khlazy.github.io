@@ -2,7 +2,6 @@
     .gist-meta a:nth-child(1) {display: none !important;}
     .gist .gist-file {border: unset !important;}
     .gist .gist-data {border-bottom: unset !important;}
-    /* .gist .gist-meta {padding: 0 !important;} */
     .gist .gist-meta {border-top: 1px solid #ddd !important; position: absolute !important; width: 98% !important; left: 1% !important;}
     .gist .gist-meta {background-color: unset !important;}
     .gist .gist-meta {text-align: right !important;}
@@ -15,8 +14,9 @@
     border-radius: 10px !important;
     font-weight: unset !important;
     padding: 0.5em 0.9em !important;
+    color: #0969da !important;
     }
-
+    .pagination li a.current, .pagination li a.current.disabled {background: #0969da;}
 
     @media (min-width: 80em) {html {font-size: 18px !important;}} /*22px*/
     @media (min-width: 64em) {html {font-size: 18px !important;}} /*20px*/
