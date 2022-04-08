@@ -1,1 +1,1 @@
-[https://khlazy.github.io/blog](https://khlazy.github.io/blog)
+[khlazy.github.io](khlazy.github.io)
